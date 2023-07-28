@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "response": {
+    "hits": [
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 11,
+          "api_path": "/songs/3040789",
+          "artist_names": "Harry Styles",
+          "full_title": "Sign of the Times by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/7808c28a7318d798a70dcca90b34846b.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/7808c28a7318d798a70dcca90b34846b.1000x1000x1.jpg",
+          "id": 3040789,
+          "language": "en",
+          "lyrics_owner_id": 2361552,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-sign-of-the-times-lyrics",
+          "pyongs_count": 353,
+          "relationships_index_url": "https://genius.com/Harry-styles-sign-of-the-times-sample",
+          "release_date_components": {
+            "year": 2017,
+            "month": 4,
+            "day": 7
+          },
+          "release_date_for_display": "April 7, 2017",
+          "release_date_with_abbreviated_month_for_display": "Apr. 7, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/be9d87b26aec0dafba6bcf3e47a33ba2.220x220x1.png",
+          "song_art_image_url": "https://images.genius.com/be9d87b26aec0dafba6bcf3e47a33ba2.220x220x1.png",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "hot": false,
+            "pageviews": 3950745
+          },
+          "title": "Sign of the Times",
+          "title_with_featured": "Sign of the Times",
+          "url": "https://genius.com/Harry-styles-sign-of-the-times-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 7,
+          "api_path": "/songs/7844309",
+          "artist_names": "Harry Styles",
+          "full_title": "As It Was by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/1f3b512dbdb9d39c975973c383fe29f3.300x300x1.png",
+          "header_image_url": "https://images.genius.com/1f3b512dbdb9d39c975973c383fe29f3.873x873x1.png",
+          "id": 7844309,
+          "language": "en",
+          "lyrics_owner_id": 5748418,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-as-it-was-lyrics",
+          "pyongs_count": 184,
+          "relationships_index_url": "https://genius.com/Harry-styles-as-it-was-sample",
+          "release_date_components": {
+            "year": 2022,
+            "month": 4,
+            "day": 1
+          },
+          "release_date_for_display": "April 1, 2022",
+          "release_date_with_abbreviated_month_for_display": "Apr. 1, 2022",
+          "song_art_image_thumbnail_url": "https://images.genius.com/cddf6d7bb531c9b23ccb4a719d833ff1.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/cddf6d7bb531c9b23ccb4a719d833ff1.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "concurrents": 4,
+            "hot": false,
+            "pageviews": 3479344
+          },
+          "title": "As It Was",
+          "title_with_featured": "As It Was",
+          "url": "https://genius.com/Harry-styles-as-it-was-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 4,
+          "api_path": "/songs/5007939",
+          "artist_names": "Harry Styles",
+          "full_title": "Watermelon Sugar by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/55a8f43c165fe3dd6db98f8e0a28cf3e.300x300x1.png",
+          "header_image_url": "https://images.genius.com/55a8f43c165fe3dd6db98f8e0a28cf3e.1000x1000x1.png",
+          "id": 5007939,
+          "language": "en",
+          "lyrics_owner_id": 3711735,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-watermelon-sugar-lyrics",
+          "pyongs_count": 116,
+          "relationships_index_url": "https://genius.com/Harry-styles-watermelon-sugar-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 11,
+            "day": 16
+          },
+          "release_date_for_display": "November 16, 2019",
+          "release_date_with_abbreviated_month_for_display": "Nov. 16, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/020226247fd256e2ccfa80d415b51837.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/020226247fd256e2ccfa80d415b51837.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 2021896
+          },
+          "title": "Watermelon Sugar",
+          "title_with_featured": "Watermelon Sugar",
+          "url": "https://genius.com/Harry-styles-watermelon-sugar-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 16,
+          "api_path": "/songs/5037838",
+          "artist_names": "Harry Styles",
+          "full_title": "Falling by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/7eaae87a75effd425aa57446afa8da9c.300x300x1.png",
+          "header_image_url": "https://images.genius.com/7eaae87a75effd425aa57446afa8da9c.870x870x1.png",
+          "id": 5037838,
+          "language": "en",
+          "lyrics_owner_id": 3499957,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-falling-lyrics",
+          "pyongs_count": 133,
+          "relationships_index_url": "https://genius.com/Harry-styles-falling-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 12,
+            "day": 13
+          },
+          "release_date_for_display": "December 13, 2019",
+          "release_date_with_abbreviated_month_for_display": "Dec. 13, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/ee79ab59275d25a69a5430f3db9c26f8.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/ee79ab59275d25a69a5430f3db9c26f8.600x600x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 9,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 1818506
+          },
+          "title": "Falling",
+          "title_with_featured": "Falling",
+          "url": "https://genius.com/Harry-styles-falling-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 4,
+          "api_path": "/songs/5037350",
+          "artist_names": "Harry Styles",
+          "full_title": "Adore You by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/fdaf3c9b5f86c107f9abaeb025b4cd34.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/fdaf3c9b5f86c107f9abaeb025b4cd34.1000x1000x1.jpg",
+          "id": 5037350,
+          "language": "en",
+          "lyrics_owner_id": 1599419,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-adore-you-lyrics",
+          "pyongs_count": 98,
+          "relationships_index_url": "https://genius.com/Harry-styles-adore-you-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 12,
+            "day": 6
+          },
+          "release_date_for_display": "December 6, 2019",
+          "release_date_with_abbreviated_month_for_display": "Dec. 6, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d9394c69245db943032661e868958557.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d9394c69245db943032661e868958557.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "hot": false,
+            "pageviews": 1527503
+          },
+          "title": "Adore You",
+          "title_with_featured": "Adore You",
+          "url": "https://genius.com/Harry-styles-adore-you-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 5,
+          "api_path": "/songs/3538722",
+          "artist_names": "Harry Styles",
+          "full_title": "Medicine by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+          "id": 3538722,
+          "language": "en",
+          "lyrics_owner_id": 4668155,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-medicine-lyrics",
+          "pyongs_count": 114,
+          "relationships_index_url": "https://genius.com/Harry-styles-medicine-sample",
+          "release_date_components": null,
+          "release_date_for_display": null,
+          "release_date_with_abbreviated_month_for_display": null,
+          "song_art_image_thumbnail_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 1118941
+          },
+          "title": "Medicine",
+          "title_with_featured": "Medicine",
+          "url": "https://genius.com/Harry-styles-medicine-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 8,
+          "api_path": "/songs/3053283",
+          "artist_names": "Harry Styles",
+          "full_title": "Kiwi by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/e70225b9166df549443de4ab00910640.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/e70225b9166df549443de4ab00910640.1000x1000x1.jpg",
+          "id": 3053283,
+          "language": "en",
+          "lyrics_owner_id": 2034060,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-kiwi-lyrics",
+          "pyongs_count": 121,
+          "relationships_index_url": "https://genius.com/Harry-styles-kiwi-sample",
+          "release_date_components": {
+            "year": 2017,
+            "month": 5,
+            "day": 12
+          },
+          "release_date_for_display": "May 12, 2017",
+          "release_date_with_abbreviated_month_for_display": "May. 12, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/1683d95081dcf72e09727bdafc22fe0a.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/1683d95081dcf72e09727bdafc22fe0a.640x640x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 4,
+            "hot": false,
+            "pageviews": 1048747
+          },
+          "title": "Kiwi",
+          "title_with_featured": "Kiwi",
+          "url": "https://genius.com/Harry-styles-kiwi-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 7,
+          "api_path": "/songs/5037815",
+          "artist_names": "Harry Styles",
+          "full_title": "Cherry by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/7dc4b02c61e7d90da5ed3cbd0e3038e7.300x300x1.png",
+          "header_image_url": "https://images.genius.com/7dc4b02c61e7d90da5ed3cbd0e3038e7.1000x1000x1.png",
+          "id": 5037815,
+          "language": "en",
+          "lyrics_owner_id": 3711735,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-cherry-lyrics",
+          "pyongs_count": 42,
+          "relationships_index_url": "https://genius.com/Harry-styles-cherry-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 12,
+            "day": 13
+          },
+          "release_date_for_display": "December 13, 2019",
+          "release_date_with_abbreviated_month_for_display": "Dec. 13, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/7dc4b02c61e7d90da5ed3cbd0e3038e7.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/7dc4b02c61e7d90da5ed3cbd0e3038e7.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1047509
+          },
+          "title": "Cherry",
+          "title_with_featured": "Cherry",
+          "url": "https://genius.com/Harry-styles-cherry-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 10,
+          "api_path": "/songs/5037853",
+          "artist_names": "Harry Styles",
+          "full_title": "Fine Line by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/5ef3d3afe3447df7338a64fc8f5f1d21.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/5ef3d3afe3447df7338a64fc8f5f1d21.640x640x1.jpg",
+          "id": 5037853,
+          "language": "en",
+          "lyrics_owner_id": 3499957,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-fine-line-lyrics",
+          "pyongs_count": 87,
+          "relationships_index_url": "https://genius.com/Harry-styles-fine-line-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 12,
+            "day": 13
+          },
+          "release_date_for_display": "December 13, 2019",
+          "release_date_with_abbreviated_month_for_display": "Dec. 13, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/5ef3d3afe3447df7338a64fc8f5f1d21.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/5ef3d3afe3447df7338a64fc8f5f1d21.640x640x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 2,
+            "concurrents": 4,
+            "hot": false,
+            "pageviews": 1116064
+          },
+          "title": "Fine Line",
+          "title_with_featured": "Fine Line",
+          "url": "https://genius.com/Harry-styles-fine-line-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 3,
+          "api_path": "/songs/4935579",
+          "artist_names": "Harry Styles",
+          "full_title": "Lights Up by\u00a0Harry\u00a0Styles",
+          "header_image_thumbnail_url": "https://images.genius.com/fdaf3c9b5f86c107f9abaeb025b4cd34.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/fdaf3c9b5f86c107f9abaeb025b4cd34.1000x1000x1.jpg",
+          "id": 4935579,
+          "language": "en",
+          "lyrics_owner_id": 4730243,
+          "lyrics_state": "complete",
+          "path": "/Harry-styles-lights-up-lyrics",
+          "pyongs_count": 114,
+          "relationships_index_url": "https://genius.com/Harry-styles-lights-up-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 10,
+            "day": 11
+          },
+          "release_date_for_display": "October 11, 2019",
+          "release_date_with_abbreviated_month_for_display": "Oct. 11, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/15db34dd8e1dcaeaf7ba55178175417f.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/15db34dd8e1dcaeaf7ba55178175417f.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1014877
+          },
+          "title": "Lights Up",
+          "title_with_featured": "Lights Up",
+          "url": "https://genius.com/Harry-styles-lights-up-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/22457",
+            "header_image_url": "https://images.genius.com/5dbf3f038d5f464927d1ad301df5e17f.748x748x1.jpg",
+            "id": 22457,
+            "image_url": "https://images.genius.com/2891eded074c12bfba2ee9077f29fd57.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harry Styles",
+            "url": "https://genius.com/artists/Harry-styles"
+          }
+        }
+      }
+    ]
+  }
+}

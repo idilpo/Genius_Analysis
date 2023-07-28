@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "response": {
+    "hits": [
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 21,
+          "api_path": "/songs/2398213",
+          "artist_names": "Rihanna (Ft. Drake)",
+          "full_title": "Work by\u00a0Rihanna (Ft.\u00a0Drake)",
+          "header_image_thumbnail_url": "https://images.genius.com/05dcb548d5373d059869882a1635e65e.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/05dcb548d5373d059869882a1635e65e.1000x1000x1.jpg",
+          "id": 2398213,
+          "language": "nl",
+          "lyrics_owner_id": 672397,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-work-lyrics",
+          "pyongs_count": 623,
+          "relationships_index_url": "https://genius.com/Rihanna-work-sample",
+          "release_date_components": {
+            "year": 2016,
+            "month": 1,
+            "day": 27
+          },
+          "release_date_for_display": "January 27, 2016",
+          "release_date_with_abbreviated_month_for_display": "Jan. 27, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/28287cc9efed5371676ff501f3ca738f.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/28287cc9efed5371676ff501f3ca738f.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 7908742
+          },
+          "title": "Work",
+          "title_with_featured": "Work (Ft.\u00a0Drake)",
+          "url": "https://genius.com/Rihanna-work-lyrics",
+          "featured_artists": [
+            {
+              "api_path": "/artists/130",
+              "header_image_url": "https://images.genius.com/a197a939377d5c595b50c1e3fdd01270.1000x309x1.png",
+              "id": 130,
+              "image_url": "https://images.genius.com/563e1b6590c65ab94586b8454e37aeaf.1000x1000x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Drake",
+              "url": "https://genius.com/artists/Drake"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 8,
+          "api_path": "/songs/2378935",
+          "artist_names": "Rihanna",
+          "full_title": "Love on the Brain by\u00a0Rihanna",
+          "header_image_thumbnail_url": "https://images.genius.com/2cdea6746d9f52a31c183c021f79eab3.300x300x1.png",
+          "header_image_url": "https://images.genius.com/2cdea6746d9f52a31c183c021f79eab3.1000x1000x1.png",
+          "id": 2378935,
+          "language": "en",
+          "lyrics_owner_id": 672397,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-love-on-the-brain-lyrics",
+          "pyongs_count": 178,
+          "relationships_index_url": "https://genius.com/Rihanna-love-on-the-brain-sample",
+          "release_date_components": {
+            "year": 2016,
+            "month": 1,
+            "day": 28
+          },
+          "release_date_for_display": "January 28, 2016",
+          "release_date_with_abbreviated_month_for_display": "Jan. 28, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/88d29fd3daca3bf19c27fdcfe233ba04.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/88d29fd3daca3bf19c27fdcfe233ba04.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 2265474
+          },
+          "title": "Love on the Brain",
+          "title_with_featured": "Love on the Brain",
+          "url": "https://genius.com/Rihanna-love-on-the-brain-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 12,
+          "api_path": "/songs/2413890",
+          "artist_names": "Rihanna",
+          "full_title": "Needed Me by\u00a0Rihanna",
+          "header_image_thumbnail_url": "https://images.genius.com/9648a4182069f94525563b595b6626db.300x300x1.png",
+          "header_image_url": "https://images.genius.com/9648a4182069f94525563b595b6626db.1000x1000x1.png",
+          "id": 2413890,
+          "language": "en",
+          "lyrics_owner_id": 172030,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-needed-me-lyrics",
+          "pyongs_count": 283,
+          "relationships_index_url": "https://genius.com/Rihanna-needed-me-sample",
+          "release_date_components": {
+            "year": 2016,
+            "month": 1,
+            "day": 28
+          },
+          "release_date_for_display": "January 28, 2016",
+          "release_date_with_abbreviated_month_for_display": "Jan. 28, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/bd92f1f683fa690b2087bbe4c9cb6ac4.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/bd92f1f683fa690b2087bbe4c9cb6ac4.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 2201128
+          },
+          "title": "Needed Me",
+          "title_with_featured": "Needed Me",
+          "url": "https://genius.com/Rihanna-needed-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 13,
+          "api_path": "/songs/97160",
+          "artist_names": "Rihanna (Ft. Mikky Ekko)",
+          "full_title": "Stay by\u00a0Rihanna (Ft.\u00a0Mikky\u00a0Ekko)",
+          "header_image_thumbnail_url": "https://images.genius.com/4fdaed37a6f53b920224e85ed1e9043c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/4fdaed37a6f53b920224e85ed1e9043c.1000x1000x1.jpg",
+          "id": 97160,
+          "language": "en",
+          "lyrics_owner_id": 113967,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-stay-lyrics",
+          "pyongs_count": 218,
+          "relationships_index_url": "https://genius.com/Rihanna-stay-sample",
+          "release_date_components": {
+            "year": 2013,
+            "month": 1,
+            "day": 7
+          },
+          "release_date_for_display": "January 7, 2013",
+          "release_date_with_abbreviated_month_for_display": "Jan. 7, 2013",
+          "song_art_image_thumbnail_url": "https://images.genius.com/dd6f6559ac537baf036183b8c36ad845.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/dd6f6559ac537baf036183b8c36ad845.600x600x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1782989
+          },
+          "title": "Stay",
+          "title_with_featured": "Stay (Ft.\u00a0Mikky\u00a0Ekko)",
+          "url": "https://genius.com/Rihanna-stay-lyrics",
+          "featured_artists": [
+            {
+              "api_path": "/artists/28450",
+              "header_image_url": "https://images.genius.com/4d5d94341e7dd37948b9614507448775.600x600x1.jpg",
+              "id": 28450,
+              "image_url": "https://images.genius.com/567884583e23c3c330bee44f817b22a2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Mikky Ekko",
+              "url": "https://genius.com/artists/Mikky-ekko"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 22,
+          "api_path": "/songs/3298826",
+          "artist_names": "N.E.R.D & Rihanna",
+          "full_title": "Lemon by\u00a0N.E.R.D\u00a0& Rihanna",
+          "header_image_thumbnail_url": "https://images.genius.com/e3b4ccdc22d23477abffd1002285ef83.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/e3b4ccdc22d23477abffd1002285ef83.1000x1000x1.jpg",
+          "id": 3298826,
+          "language": "en",
+          "lyrics_owner_id": 104344,
+          "lyrics_state": "complete",
+          "path": "/Nerd-and-rihanna-lemon-lyrics",
+          "pyongs_count": 71,
+          "relationships_index_url": "https://genius.com/Nerd-and-rihanna-lemon-sample",
+          "release_date_components": {
+            "year": 2017,
+            "month": 11,
+            "day": 1
+          },
+          "release_date_for_display": "November 1, 2017",
+          "release_date_with_abbreviated_month_for_display": "Nov. 1, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/e3b4ccdc22d23477abffd1002285ef83.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/e3b4ccdc22d23477abffd1002285ef83.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1437614
+          },
+          "title": "Lemon",
+          "title_with_featured": "Lemon",
+          "url": "https://genius.com/Nerd-and-rihanna-lemon-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/1254058",
+            "header_image_url": "https://images.genius.com/f4ad5ee0cfb044f26ba35da4c72f4904.667x667x1.jpg",
+            "id": 1254058,
+            "image_url": "https://images.genius.com/f4ad5ee0cfb044f26ba35da4c72f4904.667x667x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "N.E.R.D & Rihanna",
+            "url": "https://genius.com/artists/Nerd-and-rihanna"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 9,
+          "api_path": "/songs/690706",
+          "artist_names": "Rihanna, Kanye West & Paul McCartney",
+          "full_title": "FourFiveSeconds by\u00a0Rihanna,\u00a0Kanye West & Paul McCartney",
+          "header_image_thumbnail_url": "https://images.genius.com/b3eb1d2503653d53486c87983f7b3e72.300x300x1.png",
+          "header_image_url": "https://images.genius.com/b3eb1d2503653d53486c87983f7b3e72.1000x1000x1.png",
+          "id": 690706,
+          "language": "en",
+          "lyrics_owner_id": 599242,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-kanye-west-and-paul-mccartney-fourfiveseconds-lyrics",
+          "pyongs_count": 1243,
+          "relationships_index_url": "https://genius.com/Rihanna-kanye-west-and-paul-mccartney-fourfiveseconds-sample",
+          "release_date_components": {
+            "year": 2015,
+            "month": 1,
+            "day": 24
+          },
+          "release_date_for_display": "January 24, 2015",
+          "release_date_with_abbreviated_month_for_display": "Jan. 24, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/b3eb1d2503653d53486c87983f7b3e72.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/b3eb1d2503653d53486c87983f7b3e72.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "concurrents": 3,
+            "hot": false,
+            "pageviews": 1446199
+          },
+          "title": "FourFiveSeconds",
+          "title_with_featured": "FourFiveSeconds",
+          "url": "https://genius.com/Rihanna-kanye-west-and-paul-mccartney-fourfiveseconds-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/1586713",
+            "header_image_url": "https://images.genius.com/b597c8d83bab47d54052f1583a0f6df2.480x270x1.jpg",
+            "id": 1586713,
+            "image_url": "https://images.genius.com/5f91005227cb1dd45bb0583fa34566d1.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Rihanna, Kanye West & Paul McCartney",
+            "url": "https://genius.com/artists/Rihanna-kanye-west-and-paul-mccartney"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 5,
+          "api_path": "/songs/2397579",
+          "artist_names": "Rihanna",
+          "full_title": "Kiss It Better by\u00a0Rihanna",
+          "header_image_thumbnail_url": "https://images.genius.com/303a182c68e313537c5d30f712c91013.300x293x1.jpg",
+          "header_image_url": "https://images.genius.com/303a182c68e313537c5d30f712c91013.1000x977x1.jpg",
+          "id": 2397579,
+          "language": "en",
+          "lyrics_owner_id": 672397,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-kiss-it-better-lyrics",
+          "pyongs_count": 160,
+          "relationships_index_url": "https://genius.com/Rihanna-kiss-it-better-sample",
+          "release_date_components": {
+            "year": 2016,
+            "month": 1,
+            "day": 28
+          },
+          "release_date_for_display": "January 28, 2016",
+          "release_date_with_abbreviated_month_for_display": "Jan. 28, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/303a182c68e313537c5d30f712c91013.300x293x1.jpg",
+          "song_art_image_url": "https://images.genius.com/303a182c68e313537c5d30f712c91013.1000x977x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 3,
+            "hot": false,
+            "pageviews": 1404640
+          },
+          "title": "Kiss It Better",
+          "title_with_featured": "Kiss It Better",
+          "url": "https://genius.com/Rihanna-kiss-it-better-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 12,
+          "api_path": "/songs/2414113",
+          "artist_names": "Rihanna",
+          "full_title": "Sex with Me by\u00a0Rihanna",
+          "header_image_thumbnail_url": "https://images.genius.com/0f12ab6ad053fac0f20e0f14fc045a84.300x300x1.png",
+          "header_image_url": "https://images.genius.com/0f12ab6ad053fac0f20e0f14fc045a84.1000x1000x1.png",
+          "id": 2414113,
+          "language": "en",
+          "lyrics_owner_id": 672397,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-sex-with-me-lyrics",
+          "pyongs_count": 100,
+          "relationships_index_url": "https://genius.com/Rihanna-sex-with-me-sample",
+          "release_date_components": {
+            "year": 2016,
+            "month": 1,
+            "day": 28
+          },
+          "release_date_for_display": "January 28, 2016",
+          "release_date_with_abbreviated_month_for_display": "Jan. 28, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/0f12ab6ad053fac0f20e0f14fc045a84.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/0f12ab6ad053fac0f20e0f14fc045a84.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1101008
+          },
+          "title": "Sex with Me",
+          "title_with_featured": "Sex with Me",
+          "url": "https://genius.com/Rihanna-sex-with-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 15,
+          "api_path": "/songs/731783",
+          "artist_names": "Rihanna",
+          "full_title": "Bitch Better Have My Money by\u00a0Rihanna",
+          "header_image_thumbnail_url": "https://images.genius.com/f109ee3a9b4a793fb674d25a20020af4.300x300x1.png",
+          "header_image_url": "https://images.genius.com/f109ee3a9b4a793fb674d25a20020af4.1000x1000x1.png",
+          "id": 731783,
+          "language": "en",
+          "lyrics_owner_id": 104344,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-bitch-better-have-my-money-lyrics",
+          "pyongs_count": 780,
+          "relationships_index_url": "https://genius.com/Rihanna-bitch-better-have-my-money-sample",
+          "release_date_components": {
+            "year": 2015,
+            "month": 3,
+            "day": 26
+          },
+          "release_date_for_display": "March 26, 2015",
+          "release_date_with_abbreviated_month_for_display": "Mar. 26, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/f109ee3a9b4a793fb674d25a20020af4.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/f109ee3a9b4a793fb674d25a20020af4.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1028321
+          },
+          "title": "Bitch Better Have My Money",
+          "title_with_featured": "Bitch Better Have My Money",
+          "url": "https://genius.com/Rihanna-bitch-better-have-my-money-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 15,
+          "api_path": "/songs/89794",
+          "artist_names": "Rihanna",
+          "full_title": "Diamonds by\u00a0Rihanna",
+          "header_image_thumbnail_url": "https://images.genius.com/4fdaed37a6f53b920224e85ed1e9043c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/4fdaed37a6f53b920224e85ed1e9043c.1000x1000x1.jpg",
+          "id": 89794,
+          "language": "en",
+          "lyrics_owner_id": 113967,
+          "lyrics_state": "complete",
+          "path": "/Rihanna-diamonds-lyrics",
+          "pyongs_count": 89,
+          "relationships_index_url": "https://genius.com/Rihanna-diamonds-sample",
+          "release_date_components": {
+            "year": 2012,
+            "month": 9,
+            "day": 27
+          },
+          "release_date_for_display": "September 27, 2012",
+          "release_date_with_abbreviated_month_for_display": "Sep. 27, 2012",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d31652f8a9f5ae2afc54525cff56b883.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d31652f8a9f5ae2afc54525cff56b883.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "hot": false,
+            "pageviews": 1036503
+          },
+          "title": "Diamonds",
+          "title_with_featured": "Diamonds",
+          "url": "https://genius.com/Rihanna-diamonds-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/89",
+            "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+            "id": 89,
+            "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Rihanna",
+            "url": "https://genius.com/artists/Rihanna",
+            "iq": 2236
+          }
+        }
+      }
+    ]
+  }
+}

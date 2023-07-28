@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "response": {
+    "hits": [
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 10,
+          "api_path": "/songs/2909160",
+          "artist_names": "Bruno Mars",
+          "full_title": "That's What I Like by\u00a0Bruno\u00a0Mars",
+          "header_image_thumbnail_url": "https://images.genius.com/efeed353f6f7a3af60de93546a5a6b0d.300x300x1.png",
+          "header_image_url": "https://images.genius.com/efeed353f6f7a3af60de93546a5a6b0d.1000x1000x1.png",
+          "id": 2909160,
+          "language": "en",
+          "lyrics_owner_id": 126836,
+          "lyrics_state": "complete",
+          "path": "/Bruno-mars-thats-what-i-like-lyrics",
+          "pyongs_count": 95,
+          "relationships_index_url": "https://genius.com/Bruno-mars-thats-what-i-like-sample",
+          "release_date_components": {
+            "year": 2017,
+            "month": 1,
+            "day": 30
+          },
+          "release_date_for_display": "January 30, 2017",
+          "release_date_with_abbreviated_month_for_display": "Jan. 30, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/8ceed6dd50d394c19963307b3c63a66e.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/8ceed6dd50d394c19963307b3c63a66e.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 2822372
+          },
+          "title": "That\u2019s What I Like",
+          "title_with_featured": "That's What I Like",
+          "url": "https://genius.com/Bruno-mars-thats-what-i-like-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/500",
+            "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+            "id": 500,
+            "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Bruno Mars",
+            "url": "https://genius.com/artists/Bruno-mars",
+            "iq": 250
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 9,
+          "api_path": "/songs/3411476",
+          "artist_names": "Bruno Mars (Ft. Cardi B)",
+          "full_title": "Finesse (Remix) by\u00a0Bruno\u00a0Mars (Ft.\u00a0Cardi\u00a0B)",
+          "header_image_thumbnail_url": "https://images.genius.com/2b009800bcc45dc70518f9b7360ff90a.300x300x1.png",
+          "header_image_url": "https://images.genius.com/2b009800bcc45dc70518f9b7360ff90a.1000x1000x1.png",
+          "id": 3411476,
+          "language": "en",
+          "lyrics_owner_id": 2891574,
+          "lyrics_state": "complete",
+          "path": "/Bruno-mars-finesse-remix-lyrics",
+          "pyongs_count": 132,
+          "relationships_index_url": "https://genius.com/Bruno-mars-finesse-remix-sample",
+          "release_date_components": {
+            "year": 2018,
+            "month": 1,
+            "day": 4
+          },
+          "release_date_for_display": "January 4, 2018",
+          "release_date_with_abbreviated_month_for_display": "Jan. 4, 2018",
+          "song_art_image_thumbnail_url": "https://images.genius.com/2b009800bcc45dc70518f9b7360ff90a.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/2b009800bcc45dc70518f9b7360ff90a.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 2643795
+          },
+          "title": "Finesse (Remix)",
+          "title_with_featured": "Finesse (Remix) (Ft.\u00a0Cardi\u00a0B)",
+          "url": "https://genius.com/Bruno-mars-finesse-remix-lyrics",
+          "featured_artists": [
+            {
+              "api_path": "/artists/621678",
+              "header_image_url": "https://images.genius.com/854e3b41f244636a74bdd7b7f4ee714c.1000x333x1.jpg",
+              "id": 621678,
+              "image_url": "https://images.genius.com/5a60c41c5543b9286bc6d645603c8df8.568x568x1.jpg",
+              "is_meme_verified": true,
+              "is_verified": true,
+              "name": "Cardi B",
+              "url": "https://genius.com/artists/Cardi-b",
+              "iq": 1263
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/500",
+            "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+            "id": 500,
+            "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Bruno Mars",
+            "url": "https://genius.com/artists/Bruno-mars",
+            "iq": 250
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 7,
+          "api_path": "/songs/2898687",
+          "artist_names": "Bruno Mars",
+          "full_title": "Versace on the Floor by\u00a0Bruno\u00a0Mars",
+          "header_image_thumbnail_url": "https://images.genius.com/8b1582f12f3d6cbdab94a37ca6bd81a3.300x300x1.png",
+          "header_image_url": "https://images.genius.com/8b1582f12f3d6cbdab94a37ca6bd81a3.1000x1000x1.png",
+          "id": 2898687,
+          "language": "en",
+          "lyrics_owner_id": 104344,
+          "lyrics_state": "complete",
+          "path": "/Bruno-mars-versace-on-the-floor-lyrics",
+          "pyongs_count": 55,
+          "relationships_index_url": "https://genius.com/Bruno-mars-versace-on-the-floor-sample",
+          "release_date_components": {
+            "year": 2016,
+            "month": 11,
+            "day": 4
+          },
+          "release_date_for_display": "November 4, 2016",
+          "release_date_with_abbreviated_month_for_display": "Nov. 4, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/280396bda65db7a491f8bf8126e9bed2.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/280396bda65db7a491f8bf8126e9bed2.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 2056729
+          },
+          "title": "Versace on the Floor",
+          "title_with_featured": "Versace on the Floor",
+          "url": "https://genius.com/Bruno-mars-versace-on-the-floor-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/500",
+            "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+            "id": 500,
+            "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Bruno Mars",
+            "url": "https://genius.com/artists/Bruno-mars",
+            "iq": 250
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 2,
+          "api_path": "/songs/6531412",
+          "artist_names": "Silk Sonic",
+          "full_title": "Leave The Door Open by\u00a0Silk\u00a0Sonic",
+          "header_image_thumbnail_url": "https://images.genius.com/8c8f7f0f59eda88ab60da98f6df4ca96.300x300x1.png",
+          "header_image_url": "https://images.genius.com/8c8f7f0f59eda88ab60da98f6df4ca96.1000x1000x1.png",
+          "id": 6531412,
+          "language": "en",
+          "lyrics_owner_id": 5748418,
+          "lyrics_state": "complete",
+          "path": "/Silk-sonic-leave-the-door-open-lyrics",
+          "pyongs_count": 134,
+          "relationships_index_url": "https://genius.com/Silk-sonic-leave-the-door-open-sample",
+          "release_date_components": {
+            "year": 2021,
+            "month": 3,
+            "day": 5
+          },
+          "release_date_for_display": "March 5, 2021",
+          "release_date_with_abbreviated_month_for_display": "Mar. 5, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/8c8f7f0f59eda88ab60da98f6df4ca96.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/8c8f7f0f59eda88ab60da98f6df4ca96.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 1952941
+          },
+          "title": "Leave The Door Open",
+          "title_with_featured": "Leave The Door Open",
+          "url": "https://genius.com/Silk-sonic-leave-the-door-open-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2622290",
+            "header_image_url": "https://images.genius.com/cf4c8cfafd7ead2496fe7d2b5d02f97e.1000x333x1.jpg",
+            "id": 2622290,
+            "image_url": "https://images.genius.com/8b84915678381e5259d317d92c4f1372.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Silk Sonic",
+            "url": "https://genius.com/artists/Silk-sonic"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 14,
+          "api_path": "/songs/2872960",
+          "artist_names": "Bruno Mars",
+          "full_title": "24K Magic by\u00a0Bruno\u00a0Mars",
+          "header_image_thumbnail_url": "https://images.genius.com/efeed353f6f7a3af60de93546a5a6b0d.300x300x1.png",
+          "header_image_url": "https://images.genius.com/efeed353f6f7a3af60de93546a5a6b0d.1000x1000x1.png",
+          "id": 2872960,
+          "language": "en",
+          "lyrics_owner_id": 672397,
+          "lyrics_state": "complete",
+          "path": "/Bruno-mars-24k-magic-lyrics",
+          "pyongs_count": 78,
+          "relationships_index_url": "https://genius.com/Bruno-mars-24k-magic-sample",
+          "release_date_components": {
+            "year": 2016,
+            "month": 10,
+            "day": 7
+          },
+          "release_date_for_display": "October 7, 2016",
+          "release_date_with_abbreviated_month_for_display": "Oct. 7, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/b282bdd631cf951aad0ed03f69a58356.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/b282bdd631cf951aad0ed03f69a58356.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 4,
+            "hot": false,
+            "pageviews": 1598538
+          },
+          "title": "24K Magic",
+          "title_with_featured": "24K Magic",
+          "url": "https://genius.com/Bruno-mars-24k-magic-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/500",
+            "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+            "id": 500,
+            "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Bruno Mars",
+            "url": "https://genius.com/artists/Bruno-mars",
+            "iq": 250
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 5,
+          "api_path": "/songs/122542",
+          "artist_names": "Bruno Mars",
+          "full_title": "When I Was Your Man by\u00a0Bruno\u00a0Mars",
+          "header_image_thumbnail_url": "https://images.genius.com/a011391dce77d483f6cfcb3b39a70b96.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/a011391dce77d483f6cfcb3b39a70b96.1000x1000x1.jpg",
+          "id": 122542,
+          "language": "en",
+          "lyrics_owner_id": 151561,
+          "lyrics_state": "complete",
+          "path": "/Bruno-mars-when-i-was-your-man-lyrics",
+          "pyongs_count": 175,
+          "relationships_index_url": "https://genius.com/Bruno-mars-when-i-was-your-man-sample",
+          "release_date_components": {
+            "year": 2013,
+            "month": 1,
+            "day": 15
+          },
+          "release_date_for_display": "January 15, 2013",
+          "release_date_with_abbreviated_month_for_display": "Jan. 15, 2013",
+          "song_art_image_thumbnail_url": "https://images.genius.com/2e1e1ea46235d86a0ba541a1c30b3397.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/2e1e1ea46235d86a0ba541a1c30b3397.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "concurrents": 3,
+            "hot": false,
+            "pageviews": 1156513
+          },
+          "title": "When I Was Your Man",
+          "title_with_featured": "When I Was Your Man",
+          "url": "https://genius.com/Bruno-mars-when-i-was-your-man-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/500",
+            "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+            "id": 500,
+            "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Bruno Mars",
+            "url": "https://genius.com/artists/Bruno-mars",
+            "iq": 250
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 5,
+          "api_path": "/songs/90551",
+          "artist_names": "Bruno Mars",
+          "full_title": "Locked Out of Heaven by\u00a0Bruno\u00a0Mars",
+          "header_image_thumbnail_url": "https://images.genius.com/a011391dce77d483f6cfcb3b39a70b96.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/a011391dce77d483f6cfcb3b39a70b96.1000x1000x1.jpg",
+          "id": 90551,
+          "language": "en",
+          "lyrics_owner_id": 47098,
+          "lyrics_state": "complete",
+          "path": "/Bruno-mars-locked-out-of-heaven-lyrics",
+          "pyongs_count": 78,
+          "relationships_index_url": "https://genius.com/Bruno-mars-locked-out-of-heaven-sample",
+          "release_date_components": {
+            "year": 2012,
+            "month": 10,
+            "day": 1
+          },
+          "release_date_for_display": "October 1, 2012",
+          "release_date_with_abbreviated_month_for_display": "Oct. 1, 2012",
+          "song_art_image_thumbnail_url": "https://images.genius.com/c7224af542bc9b7ba8c530ba1bab039b.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/c7224af542bc9b7ba8c530ba1bab039b.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 1136438
+          },
+          "title": "Locked Out of Heaven",
+          "title_with_featured": "Locked Out of Heaven",
+          "url": "https://genius.com/Bruno-mars-locked-out-of-heaven-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/500",
+            "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+            "id": 500,
+            "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Bruno Mars",
+            "url": "https://genius.com/artists/Bruno-mars",
+            "iq": 250
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 7,
+          "api_path": "/songs/4314565",
+          "artist_names": "Cardi B & Bruno Mars",
+          "full_title": "Please Me by\u00a0Cardi\u00a0B & Bruno Mars",
+          "header_image_thumbnail_url": "https://images.genius.com/85d7755abc8543c43d0da7f13ec34d71.300x300x1.png",
+          "header_image_url": "https://images.genius.com/85d7755abc8543c43d0da7f13ec34d71.1000x1000x1.png",
+          "id": 4314565,
+          "language": "en",
+          "lyrics_owner_id": 104344,
+          "lyrics_state": "complete",
+          "path": "/Cardi-b-and-bruno-mars-please-me-lyrics",
+          "pyongs_count": 81,
+          "relationships_index_url": "https://genius.com/Cardi-b-and-bruno-mars-please-me-sample",
+          "release_date_components": {
+            "year": 2019,
+            "month": 2,
+            "day": 15
+          },
+          "release_date_for_display": "February 15, 2019",
+          "release_date_with_abbreviated_month_for_display": "Feb. 15, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/85d7755abc8543c43d0da7f13ec34d71.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/85d7755abc8543c43d0da7f13ec34d71.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 837631
+          },
+          "title": "Please Me",
+          "title_with_featured": "Please Me",
+          "url": "https://genius.com/Cardi-b-and-bruno-mars-please-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/1730061",
+            "header_image_url": "https://images.genius.com/20eea7e5beeda7fc2dd6cbcd9d6c44f5.330x330x1.png",
+            "id": 1730061,
+            "image_url": "https://images.genius.com/20eea7e5beeda7fc2dd6cbcd9d6c44f5.330x330x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cardi B & Bruno Mars",
+            "url": "https://genius.com/artists/Cardi-b-and-bruno-mars"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 13,
+          "api_path": "/songs/3955579",
+          "artist_names": "Gucci Mane, Bruno Mars & Kodak Black",
+          "full_title": "Wake Up in the Sky by\u00a0Gucci\u00a0Mane, Bruno Mars & Kodak Black",
+          "header_image_thumbnail_url": "https://images.genius.com/fb1fe92cdfcbfaa034e9997752ea1467.300x300x1.png",
+          "header_image_url": "https://images.genius.com/fb1fe92cdfcbfaa034e9997752ea1467.1000x1000x1.png",
+          "id": 3955579,
+          "language": "en",
+          "lyrics_owner_id": 5667167,
+          "lyrics_state": "complete",
+          "path": "/Gucci-mane-bruno-mars-and-kodak-black-wake-up-in-the-sky-lyrics",
+          "pyongs_count": 56,
+          "relationships_index_url": "https://genius.com/Gucci-mane-bruno-mars-and-kodak-black-wake-up-in-the-sky-sample",
+          "release_date_components": {
+            "year": 2018,
+            "month": 9,
+            "day": 14
+          },
+          "release_date_for_display": "September 14, 2018",
+          "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+          "song_art_image_thumbnail_url": "https://images.genius.com/fb1fe92cdfcbfaa034e9997752ea1467.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/fb1fe92cdfcbfaa034e9997752ea1467.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 3,
+            "hot": false,
+            "pageviews": 811190
+          },
+          "title": "Wake Up in the Sky",
+          "title_with_featured": "Wake Up in the Sky",
+          "url": "https://genius.com/Gucci-mane-bruno-mars-and-kodak-black-wake-up-in-the-sky-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/1577927",
+            "header_image_url": "https://images.genius.com/7f557a0db3340e89accd961567d3348b.1000x1000x1.jpg",
+            "id": 1577927,
+            "image_url": "https://images.genius.com/7f557a0db3340e89accd961567d3348b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gucci Mane, Bruno Mars & Kodak Black",
+            "url": "https://genius.com/artists/Gucci-mane-bruno-mars-and-kodak-black"
+          }
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 7,
+          "api_path": "/songs/58988",
+          "artist_names": "Bruno Mars",
+          "full_title": "Grenade by\u00a0Bruno\u00a0Mars",
+          "header_image_thumbnail_url": "https://images.genius.com/c993bbeb56015a7c824988fd4f93ee86.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/c993bbeb56015a7c824988fd4f93ee86.1000x1000x1.jpg",
+          "id": 58988,
+          "language": "en",
+          "lyrics_owner_id": 46675,
+          "lyrics_state": "complete",
+          "path": "/Bruno-mars-grenade-lyrics",
+          "pyongs_count": 115,
+          "relationships_index_url": "https://genius.com/Bruno-mars-grenade-sample",
+          "release_date_components": {
+            "year": 2010,
+            "month": 9,
+            "day": 28
+          },
+          "release_date_for_display": "September 28, 2010",
+          "release_date_with_abbreviated_month_for_display": "Sep. 28, 2010",
+          "song_art_image_thumbnail_url": "https://images.genius.com/acc843f2f336b3f82ea973674081da36.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/acc843f2f336b3f82ea973674081da36.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 6,
+            "concurrents": 3,
+            "hot": false,
+            "pageviews": 728167
+          },
+          "title": "Grenade",
+          "title_with_featured": "Grenade",
+          "url": "https://genius.com/Bruno-mars-grenade-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/500",
+            "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+            "id": 500,
+            "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Bruno Mars",
+            "url": "https://genius.com/artists/Bruno-mars",
+            "iq": 250
+          }
+        }
+      }
+    ]
+  }
+}
